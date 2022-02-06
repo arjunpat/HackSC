@@ -1,14 +1,14 @@
 {
     "lens_id": "",
-    "document_id": "L9mZY9plw4Jqdu2szPfh",
+    "document_id": "wyQAPBzr0u1vVCWgiC7Y",
     "original_document_id": "L9mZY9plw4Jqdu2szPfh",
     "version": "29",
-    "lastChanged": "1644129083897",
+    "lastChanged": "1644131820346",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "false",
-    "isAutoSaved": "false",
+    "isAutoSaved": "true",
     "api_level": "public",
     "public_api_user_data_access": "unrestricted",
     "studioVersion": {
@@ -1031,7 +1031,7 @@
                     },
                     {
                         "k": "969",
-                        "v": "690ab87efd2814ed08a7def09797584a"
+                        "v": "337c5b32b7e3fb60b551ffe1d0bba59a"
                     },
                     {
                         "k": "971",
@@ -1039,11 +1039,11 @@
                     },
                     {
                         "k": "973",
-                        "v": "96854bba70f27e952cf9a28707fbdd3b"
+                        "v": "993d363e169ad69c826c74dc0261494a"
                     },
                     {
                         "k": "974",
-                        "v": "f4d1f25c300a1f47d7b7506fa079a643"
+                        "v": "fefea76d8b24a7df1e05ffaa9729ac68"
                     },
                     {
                         "k": "976",
@@ -1084,24 +1084,28 @@
                     {
                         "k": "991",
                         "v": "12401f8ce5a28dcde902ec7fbc508ec9"
+                    },
+                    {
+                        "k": "992",
+                        "v": "59361291686fd7cebf3981836238abbb"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-02-05T22:23:26",
+                        "lastModified": "2022-02-05T22:37:33",
                         "name": "Public",
-                        "hash": "d6951ecf07a8ef8158cfdf3b9d1b0a3a",
+                        "hash": "88705d6190432b23dc519e1ae67c931d",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-02-05T22:18:53",
+                                "lastModified": "2022-02-05T22:36:24",
                                 "name": "Assets",
                                 "hash": "935d93fd699d842de4a4561d92a8786d",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-02-05T22:18:53",
+                                        "lastModified": "2022-02-05T22:36:24",
                                         "name": "Bounding Box Textures",
                                         "hash": "d30abb0fc7debb432c4715a88df215ed",
                                         "children": [
@@ -1144,7 +1148,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-02-05T22:18:54",
+                                        "lastModified": "2022-02-05T22:36:24",
                                         "name": "Food Detection",
                                         "hash": "c6290d448b9497af16861360513ec86d",
                                         "children": [
@@ -1189,7 +1193,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-02-05T22:18:54",
+                                "lastModified": "2022-02-05T22:36:24",
                                 "name": "ML Hint",
                                 "hash": "fbbacfb1c624e4869ceb7200b4192ac4",
                                 "children": [
@@ -1202,7 +1206,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-02-05T22:18:54",
+                                        "lastModified": "2022-02-05T22:36:24",
                                         "name": "Font",
                                         "hash": "16060818347d2e309d73a640d4470e01",
                                         "children": [
@@ -1224,7 +1228,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-02-05T22:18:54",
+                                        "lastModified": "2022-02-05T22:36:24",
                                         "name": "Textures",
                                         "hash": "c159fc313334aa7087f1a50ba443b61b",
                                         "children": [
@@ -1237,7 +1241,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-02-05T22:18:54",
+                                                "lastModified": "2022-02-05T22:36:25",
                                                 "name": "ml_loading",
                                                 "hash": "0cb1700d3bc8c1cc561eb34c21b8f329",
                                                 "children": [
@@ -1270,9 +1274,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-02-05T22:23:26",
+                                "lastModified": "2022-02-05T23:13:38",
                                 "name": "Scripts",
-                                "hash": "3897c554238092931e9ed5ba4bbb39ed",
+                                "hash": "95585a8b7e5269b0f501a89a7007c6b6",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1290,30 +1294,30 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-02-05T22:18:52",
+                                        "lastModified": "2022-02-05T22:40:06",
                                         "name": "MLController.js",
-                                        "hash": "f4d1f25c300a1f47d7b7506fa079a643",
+                                        "hash": "fefea76d8b24a7df1e05ffaa9729ac68",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-02-05T22:18:52",
+                                        "lastModified": "2022-02-05T22:51:36",
                                         "name": "ObjectDetectionController.js",
-                                        "hash": "96854bba70f27e952cf9a28707fbdd3b",
+                                        "hash": "993d363e169ad69c826c74dc0261494a",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-02-05T22:08:10",
+                                        "lastModified": "2022-02-05T23:13:38",
                                         "name": "Voice.js",
-                                        "hash": "690ab87efd2814ed08a7def09797584a",
+                                        "hash": "337c5b32b7e3fb60b551ffe1d0bba59a",
                                         "children": ""
                                     }
                                 ]
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-02-05T22:18:53",
+                                "lastModified": "2022-02-05T22:36:25",
                                 "name": "Textures",
                                 "hash": "b20fa2eb47408fa2a71914beac9353ec",
                                 "children": [
@@ -1335,7 +1339,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-02-05T22:18:53",
+                                "lastModified": "2022-02-05T22:36:25",
                                 "name": "Tween",
                                 "hash": "62ea0ad46b55175d60395190fbf84b28",
                                 "children": [
@@ -4010,14 +4014,8 @@
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1644114249427110:5719",
-                        "path_list": [
-                            "Scripts",
-                            "Voice"
-                        ]
-                    }
+                "objects": [
+                    "1644115820735777:8527"
                 ]
             }
         },
