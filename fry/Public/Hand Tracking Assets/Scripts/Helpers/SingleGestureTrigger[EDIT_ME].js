@@ -116,8 +116,8 @@ function getGesture() {
 }
 
 function updateText(txt) {
-    if (script.hintText) {
-        script.hintText.text = isHandTracking ? (handString + txt) : script.noGestureHint;
+    if (script.hintText && script.hintText.text !== "") {
+        script.hintText.text = isHandTracking ? "Drop the egg on the pan." : script.noGestureHint;
     }
 }
 

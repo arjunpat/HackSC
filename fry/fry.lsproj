@@ -3,7 +3,7 @@
     "document_id": "gFFW1-B41uMseCCwnnqd",
     "original_document_id": "x95884qSwCQkij942so6",
     "version": "29",
-    "lastChanged": "1644143571781",
+    "lastChanged": "1644146099352",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -87,9 +87,6 @@
                     ],
                     [
                         "Frying Pan"
-                    ],
-                    [
-                        "Hand Tracking Assets"
                     ],
                     [
                         "Hand Tracking Assets",
@@ -591,9 +588,6 @@
                         "Recipe"
                     ],
                     [
-                        "Scripts"
-                    ],
-                    [
                         "Scripts",
                         "ChainController"
                     ],
@@ -840,6 +834,7 @@
             "collapsedList": [
                 [
                     "1517446348227994:84813",
+                    "1626207191287808:26263",
                     "1626207191303882:26280",
                     "1626207793896330:39004",
                     "1626207846163455:40989",
@@ -4729,7 +4724,7 @@
                     },
                     {
                         "k": "160",
-                        "v": "26f67905a7857ea3858b0db377221a2e"
+                        "v": "de28ad2459b2880e945eb97adfc04e0f"
                     },
                     {
                         "k": "161",
@@ -4749,7 +4744,7 @@
                     },
                     {
                         "k": "165",
-                        "v": "aea1224b3380e1170eaa87d116e47de4"
+                        "v": "e7fa54b561c77b41b36f64d2f80926b2"
                     },
                     {
                         "k": "166",
@@ -5301,11 +5296,11 @@
                     },
                     {
                         "k": "327",
-                        "v": "babf2f13b43ca94d700b256a6de56f1a"
+                        "v": "af0e36210542cefabfd2cb4913acc9e9"
                     },
                     {
                         "k": "328",
-                        "v": "c251ab5a20e2d71811609d365a2f9d4f"
+                        "v": "17e13ecbc7e9b7e1053fcc0bb417a38d"
                     },
                     {
                         "k": "329",
@@ -5317,7 +5312,7 @@
                     },
                     {
                         "k": "331",
-                        "v": "b7ce7cac9bcfbea77482e325712a06f1"
+                        "v": "39d13a91afe3a8f214d308cc8a53d3fd"
                     },
                     {
                         "k": "332",
@@ -5353,7 +5348,7 @@
                     },
                     {
                         "k": "340",
-                        "v": "751f9ab903f4b3dd320dd2791a6822a0"
+                        "v": "bf5e25d8505480dd0416c7f6a72ed2f7"
                     },
                     {
                         "k": "342",
@@ -5517,35 +5512,35 @@
                     },
                     {
                         "k": "382",
-                        "v": "5ef0cc80172f6bb29889ea4e66c34610"
+                        "v": "2334839705c4013944d63e75991c1558"
                     },
                     {
                         "k": "383",
-                        "v": "66cce9a3ba42233a58978ad116abf1f4"
+                        "v": "8412d6c8c7bba69c2de8895a383c1096"
                     },
                     {
                         "k": "384",
-                        "v": "4ec27c73b0cefa2a593bd2fd09e755a1"
+                        "v": "b065df357e956847b886364454c76aa8"
                     },
                     {
                         "k": "385",
-                        "v": "71772eb00a16e7fe6f615c3cfad7e5eb"
+                        "v": "82942db5104f4b69441d5bad7d5188e6"
                     },
                     {
                         "k": "386",
-                        "v": "f8481cc715ed58dd6d9185f98b55539d"
+                        "v": "fa9b3f5d18d9d1d0d02acfb9c62d37d6"
                     },
                     {
                         "k": "387",
-                        "v": "1a9978537f2e37059dd8b07f9bf79e7d"
+                        "v": "969b9aeb282c8508a99b797eaa900097"
                     },
                     {
                         "k": "388",
-                        "v": "1c0f6e9a904d71d2c819f2a93e26d494"
+                        "v": "afebe2646ceab83386381179793d7fea"
                     },
                     {
                         "k": "389",
-                        "v": "2c5a91438fe730797d20e4091ac88929"
+                        "v": "396c60d5ac1ee5680638f57300a31b22"
                     },
                     {
                         "k": "968",
@@ -5645,7 +5640,7 @@
                     },
                     {
                         "k": "993",
-                        "v": "b86679f1bf5f05e38eeb425bd651e7c0"
+                        "v": "7841c9f29d08ce94087258c5ecb37634"
                     },
                     {
                         "k": "1035",
@@ -5713,7 +5708,7 @@
                         "isFolder": "true",
                         "lastModified": "2022-02-06T02:16:58",
                         "name": "Public",
-                        "hash": "854d091a16afcdcb175fdf90eace7b62",
+                        "hash": "7bff698bc4502cb45726ee88b6d911cc",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -5790,7 +5785,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-02-06T01:34:13",
                                 "name": "Hand Tracking Assets",
-                                "hash": "7f83c7c6ecae0c6667b3a4fb3aab0a16",
+                                "hash": "587a54d7eae17946174c793b73e1dbf8",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -5907,28 +5902,28 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-02-06T02:19:05",
+                                        "lastModified": "2022-02-06T03:13:12",
                                         "name": "Materials",
-                                        "hash": "a5c081f2b43d5d75e219b6614d5e5d3b",
+                                        "hash": "af93e7d461276285dacf7bf27fb46ca9",
                                         "children": [
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-02-06T02:19:05",
+                                                "lastModified": "2022-02-06T03:13:11",
                                                 "name": "Bones",
-                                                "hash": "d41abe36d59c6ad4bc618719fa5ed660",
+                                                "hash": "2ab9ba478a03a12c53b5c4d180052286",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-06T02:19:05",
+                                                        "lastModified": "2022-02-06T03:13:11",
                                                         "name": "blue.lsmat",
-                                                        "hash": "221f214ebbc512e5e9525682c15f8348",
+                                                        "hash": "848ccac4088af58f72968634f018c857",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-06T02:19:03",
+                                                        "lastModified": "2022-02-06T03:13:10",
                                                         "name": "Bone.lsmat",
-                                                        "hash": "97102d9e454178e11a25410bea9d5a27",
+                                                        "hash": "3ed11d963e8c2bf41819ab74ec353e05",
                                                         "children": ""
                                                     },
                                                     {
@@ -5940,46 +5935,46 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-06T02:19:04",
+                                                        "lastModified": "2022-02-06T03:13:11",
                                                         "name": "green.lsmat",
-                                                        "hash": "a106c96ba6b46f3972e1e743010ac922",
+                                                        "hash": "623722216eb36bace7dd707326913e4f",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-06T02:19:03",
+                                                        "lastModified": "2022-02-06T03:13:10",
                                                         "name": "orange.lsmat",
-                                                        "hash": "156baf7b92f70920512cec642b6ad0db",
+                                                        "hash": "6ec56d44b008c232415fa7c5493cf410",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-06T02:19:04",
+                                                        "lastModified": "2022-02-06T03:13:11",
                                                         "name": "pink.lsmat",
-                                                        "hash": "cb4591dab30cefe60295a793c9682281",
+                                                        "hash": "24c9aff20d823aa8e5809a6af9338433",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-06T02:19:05",
+                                                        "lastModified": "2022-02-06T03:13:11",
                                                         "name": "red.lsmat",
-                                                        "hash": "58e596dc0ae407d4e3a24330738b913f",
+                                                        "hash": "6259fb6535ffd51743fb4471d5af1b42",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-06T02:19:03",
+                                                        "lastModified": "2022-02-06T03:13:10",
                                                         "name": "yellow.lsmat",
-                                                        "hash": "3d9d641d6ec12127ac9ead2590cc3500",
+                                                        "hash": "230e767949e8b5483613f2114d7226f8",
                                                         "children": ""
                                                     }
                                                 ]
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-02-06T02:19:05",
+                                                "lastModified": "2022-02-06T03:13:12",
                                                 "name": "Default Hands.lsmat",
-                                                "hash": "6605a266d69b949895b6aaa8752a67fd",
+                                                "hash": "2d200435b3eb4f2ccdd72f6938ecadcf",
                                                 "children": ""
                                             },
                                             {
@@ -5991,30 +5986,30 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-02-06T02:19:02",
+                                                "lastModified": "2022-02-06T03:13:10",
                                                 "name": "Hand Hint PBR 2.lsmat",
-                                                "hash": "652c524c597ab550a41049b868135558",
+                                                "hash": "8a03c6a939ec95a632b2b20865cf10c6",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-02-06T02:19:02",
+                                                "lastModified": "2022-02-06T03:13:10",
                                                 "name": "Hand Hint PBR 3.lsmat",
-                                                "hash": "000774987cdb38b0bfa40c84b6836e71",
+                                                "hash": "a6535bbf200977d1159e121cd5e656a9",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-02-06T02:19:02",
+                                                "lastModified": "2022-02-06T03:13:09",
                                                 "name": "Hand Hint PBR.lsmat",
-                                                "hash": "e7dc1f560c6b678882d7df83401c7eb9",
+                                                "hash": "fe584cf4508a360ee2a55fa261780dbf",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-02-06T02:19:01",
+                                                "lastModified": "2022-02-06T03:13:09",
                                                 "name": "Indicator Line.lsmat",
-                                                "hash": "7d43623b3d0889a2dcb7d79b934465a8",
+                                                "hash": "9763b5a9c56a71363d676c41d7e62c0f",
                                                 "children": ""
                                             }
                                         ]
@@ -6052,7 +6047,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-02-06T01:34:13",
                                         "name": "Scripts",
-                                        "hash": "1c43c8b340b143eb620dc8760bc36aa2",
+                                        "hash": "f504f6ac4de467f0b00e3c41fa4e57cc",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -6077,9 +6072,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-02-06T01:34:13",
+                                                "lastModified": "2022-02-06T03:09:50",
                                                 "name": "Helpers",
-                                                "hash": "6f855ce5f078eb797f90a8b0401d739f",
+                                                "hash": "9b40119ae2fd918002d54b33f56e3ce7",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -6139,9 +6134,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-02-05T18:25:27",
+                                                        "lastModified": "2022-02-06T03:09:49",
                                                         "name": "SingleGestureTrigger[EDIT_ME].js",
-                                                        "hash": "b7ce7cac9bcfbea77482e325712a06f1",
+                                                        "hash": "39d13a91afe3a8f214d308cc8a53d3fd",
                                                         "children": ""
                                                     }
                                                 ]
@@ -6166,9 +6161,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-02-06T02:19:01",
+                                "lastModified": "2022-02-06T03:13:09",
                                 "name": "Materials",
-                                "hash": "9134fb5bcd2d9dfbc85831c95b07ee60",
+                                "hash": "c62a93cc7a1489da7b7b2bd3f884ce7b",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -6193,9 +6188,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-02-06T02:19:01",
+                                        "lastModified": "2022-02-06T03:13:09",
                                         "name": "Halo.lsmat",
-                                        "hash": "7e8808f55b6f75adabf87e82baff078f",
+                                        "hash": "a0ac00cf61333f9102dd6cad6efa1cca",
                                         "children": ""
                                     },
                                     {
@@ -6433,9 +6428,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-02-06T01:34:13",
+                                "lastModified": "2022-02-06T03:14:45",
                                 "name": "Scripts",
-                                "hash": "28632c198f02abf1482dfbcb6d143556",
+                                "hash": "38183437f32f51d30e501e92b5c36bd5",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -6482,9 +6477,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-02-06T00:56:25",
+                                        "lastModified": "2022-02-06T03:14:44",
                                         "name": "Egg.js",
-                                        "hash": "b86679f1bf5f05e38eeb425bd651e7c0",
+                                        "hash": "7841c9f29d08ce94087258c5ecb37634",
                                         "children": ""
                                     },
                                     {
@@ -9846,7 +9841,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1644135567472485:184056"
+                    "1628885862330067:1462557"
                 ]
             }
         },

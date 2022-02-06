@@ -1,6 +1,7 @@
 // -----JS CODE-----
 
 // @input SceneObject fryingEgg
+// @input Component.Text hintText
 
 global.floating = true;
 
@@ -14,9 +15,8 @@ event.bind(function (eventData)
             reset = true;
             script.getSceneObject().getComponent("Physics.BodyComponent").enabled = false;
             script.fryingEgg.enabled = true;
+            script.hintText.text = "";
             script.getSceneObject().enabled = false;
-        } else if (pos.y < 15) {
-            // set color to yellow
         }
     }
 });
