@@ -1,14 +1,14 @@
 {
     "lens_id": "",
-    "document_id": "OlM4bRxncgCgQEr7BVkx",
-    "original_document_id": "v_OJMh3PqFrsLR22RZ7y",
+    "document_id": "L9mZY9plw4Jqdu2szPfh",
+    "original_document_id": "L9mZY9plw4Jqdu2szPfh",
     "version": "29",
-    "lastChanged": "1644110491763",
+    "lastChanged": "1644114073843",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "false",
-    "isAutoSaved": "true",
+    "isAutoSaved": "false",
     "api_level": "public",
     "public_api_user_data_access": "unrestricted",
     "studioVersion": {
@@ -41,12 +41,6 @@
                     [
                         "Echopark",
                         "Specular"
-                    ],
-                    [
-                        "Script"
-                    ],
-                    [
-                        "Text3D Default"
                     ]
                 ]
             ]
@@ -105,7 +99,7 @@
             "foldedOwnerSceneObjects": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1644104619466353:1676"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -156,22 +150,6 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
-                },
-                {
-                    "resId": "13",
-                    "uid": "1644104619466353:1676",
-                    "name": "Files\/File8",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "14",
-                    "uid": "1644104832942222:5432",
-                    "name": "Files\/File10.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -197,9 +175,7 @@
             "autoRenderOrder": {
                 "0": "1517446348227994:84813",
                 "1": "1517446348228144:84822",
-                "2": "1528843813151434:5126",
-                "3": "1644104619404364:1653",
-                "4": "1644108040968171:18704"
+                "2": "1528843813151434:5126"
             }
         },
         "LayerComponent": {
@@ -241,18 +217,6 @@
                 {
                     "k": "7",
                     "v": "Files\/File7.hdr"
-                },
-                {
-                    "k": "8",
-                    "v": "Files\/File8"
-                },
-                {
-                    "k": "9",
-                    "v": "Files\/File9.lsmat"
-                },
-                {
-                    "k": "10",
-                    "v": "Files\/File10.js"
                 }
             ]
         },
@@ -271,14 +235,6 @@
                     {
                         "k": "967",
                         "v": "Echopark.hdr"
-                    },
-                    {
-                        "k": "968",
-                        "v": "Text3D Default.lsmat"
-                    },
-                    {
-                        "k": "969",
-                        "v": "Script.js"
                     }
                 ],
                 "hashes": [
@@ -293,47 +249,25 @@
                     {
                         "k": "967",
                         "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
-                    },
-                    {
-                        "k": "968",
-                        "v": "326713bfcc9737b994ab632c8a5dcebd"
-                    },
-                    {
-                        "k": "969",
-                        "v": "3c0558cbd978a1b93ce6b3372571bca6"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-02-05T17:18:11",
+                        "lastModified": "2020-04-30T18:25:18",
                         "name": "Public",
-                        "hash": "c7026cb7057dd9c7addd2e3f72f2b1f7",
+                        "hash": "7305afc99178fbb8f0912889f41c0cab",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-02-05T17:18:11",
-                                "name": "Script.js",
-                                "hash": "3c0558cbd978a1b93ce6b3372571bca6",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-01-24T09:34:45",
+                                "lastModified": "2020-04-28T12:55:20",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-02-05T15:43:39",
-                                "name": "Text3D Default.lsmat",
-                                "hash": "48b1988e089fd4786989b563b28b5a1c",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-01-24T09:34:45",
+                                "lastModified": "2020-04-30T18:24:58",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -442,46 +376,12 @@
                                 "additional": ""
                             }
                         ]
-                    },
-                    {
-                        "name": "Text3D Default",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "13",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1644104619466353:1676",
-                        "fileId": "8",
-                        "originalId": "9",
-                        "publicId": "968",
-                        "source": "",
-                        "additional": {
-                            "isUnpackedInPublic": "false"
-                        }
-                    },
-                    {
-                        "name": "Script",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "14",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1644104832942222:5432",
-                        "fileId": "10",
-                        "originalId": "18446744073709551615",
-                        "publicId": "969",
-                        "source": "\/Users\/arjunpatrawala\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioVIjXnOfYawtk\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1644104619404364:1653"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
