@@ -1,9 +1,9 @@
 {
     "lens_id": "",
-    "document_id": "wyQAPBzr0u1vVCWgiC7Y",
+    "document_id": "zOtPf8KW3xqjtXXiavFi",
     "original_document_id": "L9mZY9plw4Jqdu2szPfh",
     "version": "29",
-    "lastChanged": "1644131820346",
+    "lastChanged": "1644132630659",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -4013,11 +4013,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1644115820735777:8527"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
