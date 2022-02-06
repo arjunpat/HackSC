@@ -3,7 +3,7 @@
     "document_id": "L9mZY9plw4Jqdu2szPfh",
     "original_document_id": "L9mZY9plw4Jqdu2szPfh",
     "version": "29",
-    "lastChanged": "1644114073843",
+    "lastChanged": "1644127168341",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -41,8 +41,18 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Voice"
+                    ],
+                    [
+                        "VoiceML Module"
                     ]
-                ]
+                ],
+                ""
             ]
         },
         "SceneTreeUiComponent": {
@@ -52,9 +62,13 @@
             "selectionSetList": ""
         },
         "MetaInfoUIComponent": {
-            "hints": "",
-            "lens": "Untitled",
-            "applicability": "3",
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "fucku",
+            "applicability": "11",
             "lens_descriptors": "",
             "Spectacles2021UseAllowed": "true"
         },
@@ -150,6 +164,30 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1644114100675922:1776",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1644114249427110:5719",
+                    "name": "Files\/File10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1644114387999399:6405",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -175,7 +213,12 @@
             "autoRenderOrder": {
                 "0": "1517446348227994:84813",
                 "1": "1517446348228144:84822",
-                "2": "1528843813151434:5126"
+                "2": "1528843813151434:5126",
+                "3": "1644114100681744:1789",
+                "4": "1644114151859599:2356",
+                "5": "1644114196405009:4374",
+                "6": "1644115812215634:8513",
+                "7": "1644115820735777:8527"
             }
         },
         "LayerComponent": {
@@ -217,6 +260,18 @@
                 {
                     "k": "7",
                     "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.js"
                 }
             ]
         },
@@ -235,6 +290,14 @@
                     {
                         "k": "967",
                         "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Plane.mesh"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Voice.js"
                     }
                 ],
                 "hashes": [
@@ -249,25 +312,47 @@
                     {
                         "k": "967",
                         "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "969",
+                        "v": "ac69b7cb85a7cc0d992924af872611b9"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-30T18:25:18",
+                        "lastModified": "2022-02-05T21:55:45",
                         "name": "Public",
-                        "hash": "7305afc99178fbb8f0912889f41c0cab",
+                        "hash": "50479b0bbd119ea9000ad71dfb2a8c04",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-28T12:55:20",
+                                "lastModified": "2022-02-05T18:21:40",
+                                "name": "Plane.mesh",
+                                "hash": "f3f8f179b87ba4b5a44077fb80d53214",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-24T09:34:45",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-30T18:24:58",
+                                "lastModified": "2022-02-05T21:55:45",
+                                "name": "Voice.js",
+                                "hash": "ac69b7cb85a7cc0d992924af872611b9",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-24T09:34:45",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -376,6 +461,80 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Plane",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644114100675922:1776",
+                        "fileId": "8",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "\/Users\/arjunpatrawala\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiofvnMmaRArMFo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": {
+                            "info": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "canBeDisabled": "false"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "color",
+                                        "format": "3",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    }
+                                ],
+                                "hasBlendShapes": "false",
+                                "hasSkinBones": "false"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Voice",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644114249427110:5719",
+                        "fileId": "10",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "\/Users\/arjunpatrawala\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiofvnMmaRArMFo\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "VoiceML Module",
+                        "type": "33",
+                        "subtype": "0",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644114387999399:6405",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
@@ -422,7 +581,66 @@
             "importInfo": ""
         },
         "Compression::IController": {
-            "new_compression_info": ""
+            "new_compression_info": [
+                {
+                    "k": "1644114100675922:1776",
+                    "v": {
+                        "infos": {
+                            "originalSize": "620",
+                            "compressedSize": "620",
+                            "originalRAM": "220",
+                            "compressedRAM": "220",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "9",
+                        "compressed_files": ""
+                    }
+                }
+            ]
         },
         "AssetLibController": {
             "itemUidToID": ""
